@@ -1,2 +1,2 @@
-# JS-Advanced
+In the JS Advanced course, you will gain in-depth knowledge of JavaScript, such as syntax basics, working with arrays, matrices, objects, classes, and writing functions. You will study more complex concepts such as function context, explicit binding, event loop. The course will develop your algorithmic thinking. After successfully completing this course, you will have the opportunity to work with the DOM tree, to manipulate it and to work with "events". The functional and OOP approaches to JavaScript programming will be considered, and concepts such as inheritance, object composition and prototype chain will be studied.
  
